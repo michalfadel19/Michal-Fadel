@@ -535,6 +535,15 @@ section {
   margin-bottom: 30px;
 }
 
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
 .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 35px auto;
